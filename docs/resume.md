@@ -21,7 +21,7 @@ Period|Entity|Location|Position
 2007/2008|BSI Tecnologia|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Senior ASP developer
 2005/2007|BSI Tecnologia|[Londrina](https://www.google.com/maps/place/Londrina,+State+of+Paraná)|Full ASP developer
 2003/2005|WeBee e-Marketing|[Londrina](https://www.google.com/maps/place/Londrina,+State+of+Paraná)|Junior ASP developer
-2002/2002|CenaFinal|[Londrina](https://www.google.com/maps/place/Londrina,+State+of+Paraná)|Website Content Writer
+2002/2002|CenaFinal|[Londrina](https://www.google.com/maps/place/Londrina,+State+of+Paraná)|Website content writer
 
 ### Senior C# backend developer by Ventron at XP Investimentos
 
@@ -96,6 +96,36 @@ in 1970 as Herbitécnica. [Adama Brasil](https://www.adama.com/brasil) was three
 places to work in Brazil.
 
 ### Senior ASP developer by BSI Tecnologia at Banco Itaú S. A.
+
+My job was to receive the packaged code delivered by the external software factory, deploy it in quality assurance
+environment, make the required tests to assure the quality of the job done by my fellow coworkers at the factory and
+deliver a new package ready for deploy in production.
+
+### Full ASP developer at BSI Tecnologia
+
+I've joined BSI Tecnologia as a trainee for a new COBOL team. The training programme had 6 months duration but I digress
+in the first month, when I accepted joining the brand new non-mainframe platform team. I've joined the new team as a
+full classic ASP developer. I had a deficient but motivational technical environment that lead me to learn JavaScript,
+advanced file IO and regular expressions, skills that boosted my productivity and my career.
+
+At BSI Tecnologia software factory I also taught JavaScript for ASP, ASP.Net and Java programers, and ASP for ASP.Net
+programmers.
+
+### Junior ASP developer at WeBee e-Marketing
+
+It was at WeBee that I felt for the first time that I became a professional programmer. It was, in fact, the very first
+job I had to deal with customers needs and technical aspects. I coded ASP and PHP connecting with Microsoft Access and
+Microsoft SQL Server databases, delivering websites, e-commerces, hot sites and backoffice solutions.
+
+[WeBee e-Marketing](http://webee.com.br) is a local reference and won many awards in Londrina.
+
+### Website content writer at CenaFinal.com.br
+
+It was a part-time job during the high school. I was a content writer and started as junior ASP developer helping the
+web site maintenance.
+
+CenaFinal.com.br was a entertainment website about movies on theaters with come great info about home video and open
+television programme.
 
 ## Education
 
