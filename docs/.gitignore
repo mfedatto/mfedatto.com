@@ -1,4 +1,6 @@
 _site
+.vscode
+.vscode/
 .sass-cache
 .sass-cache/
 .DS_Store

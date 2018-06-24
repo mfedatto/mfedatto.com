@@ -8,7 +8,22 @@ Looking for positions where I can apply my expertise to boost the company develo
 
 ## Experience
 
-### Ventron as senior backend developer
+### Timetable
+
+Period|Entity|Location|Position
+------|------|--------|--------
+2018/~|Ventron|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Senior C# backend developer
+2013/2018|B3 - Brasil, Bolsa, Balcão|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Senior fullstack developer
+2010/2013|7COMm Serviços em TI|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Senior ASP.Net developer
+2009/2010|LabOne Systems|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Senior ASP.Net MVC developer
+2009/2009|BRQ Digital Solutions|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Senior ASP.Net developer
+2008/2009|Fórum Access|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Full ASP.Net developer
+2007/2008|BSI Tecnologia|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Senior ASP developer
+2005/2007|BSI Tecnologia|[Londrina](https://www.google.com/maps/place/Londrina,+State+of+Paraná)|Full ASP developer
+2003/2005|WeBee e-Marketing|[Londrina](https://www.google.com/maps/place/Londrina,+State+of+Paraná)|Junior ASP developer
+2002/2002|CenaFinal|[Londrina](https://www.google.com/maps/place/Londrina,+State+of+Paraná)|Website Content Writer
+
+### Senior C# backend developer by Ventron at XP Investimentos
 
 Located at XP Investimentos as senior backend developer at a B2B squad, manly developing and optimizing RESTful apps
 based on DDD paradigm, but also sustaining current apps and discontinued RESTful micro services whilst new versions
@@ -19,9 +34,9 @@ main reference in investment advice.
 
 [Ventron](http://ventron.com.br) is a [Cadmus](http://www.cadmus.com.br/) company.
 
-### B3 - Brasil, Bolsa, Balcão as senior C# fullstack developer
+### Senior fullstack developer at B3 - Brasil, Bolsa, Balcão
 
-I had actively participated in important fronts in solutions for the whole capital market highlighted by its
+I had actively participated in important fronts in solutions for the whole capital market. Highlighted by its
 architecture, response time and stability superior of the international average. Dealt with regulatory agencies and was responsible for two payroll system migrations of more than 2000 employees without unavailability in the systems
 involved. Formerly outsourced, as soon the legal issues expired I was invited by the company to join them as an
 employee.
@@ -29,7 +44,7 @@ employee.
 [B3 - Brasil, Bolsa, Balcão](http://b3.com.br) is the 5th largest exchange company in the world. It's the resulting
 company after a merge, in 2017, of CETIP and BM&FBOVESPA.
 
-### 7COMm Serviços em TI as senior ASP.Net developer
+### Senior ASP.Net developer by 7COMm at B3 - Brasil, Bolsa, Balcão
 
 Located at [B3 - Brasil, Bolsa, Balcão](http://b3.com.br) I joined the most challenging project in my career. I
 developed the kernel of a new tool for measuring customer portfolio of stock derivatives to set the risk of their
@@ -48,24 +63,39 @@ maintains distribution centers in Brazil, Argentina and Mexico.
 
 [7COMm Serviços em TI](http://7comm.com.br) is delivering IT solutions and services for more than 30 years.
 
-### LabOne Systems
+### Senior ASP.Net MVC developer at LabOne Systems
 
-Acted in the development of a new proposal from Microsoft Brazil for Banco do Brasil S. A. of a light ATM, exploring the multimedia resources of WCF.
+I acted in the development of a new proposal from Microsoft Brazil for [Banco do Brasil S. A.](http://www.bb.com.br)
+with a lightweight ATM, exploring the multimedia resources of Windows Communication Foundation. Our solution was
+extremely well accepted by the client, but the project was shuted down after the clients ATM provider decided no long
+deliver Windows powered machines.
 
-## Timetable
+I also delivered some features at Sonora, an online streaming radio similar to Spotify Radio feature, and
+[TV iG](http://tvig.ig.com.br/) with media transcoding.
 
-Period|Entity|Location|Position
-------|------|--------|--------
-2018/~|Ventron|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Senior backend developer
-2013/2018|B3 - Brasil, Bolsa, Balcão|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Senior C# fullstack developer
-2010/2013|7COMm Serviços em TI|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Senior ASP.Net developer
-2009/2010|LabOne Systems|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Senior ASP.Net developer
-2009/2009|BRQ Digital Solutions|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Senior ASP.Net developer
-2008/2009|Fórum Access|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Full ASP.Net developer
-2007/2008|BSI Tecnologia|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Senior ASP developer
-2005/2007|BSI Tecnologia|[Londrina](https://www.google.com/maps/place/Londrina,+State+of+Paraná)|Full ASP developer
-2003/2005|WeBee e-Marketing|[Londrina](https://www.google.com/maps/place/Londrina,+State+of+Paraná)|Junior ASP developer
-2002/2002|CenaFinal|[Londrina](https://www.google.com/maps/place/Londrina,+State+of+Paraná)|Website Content Writer
+LabOne was an outsource company started with the development of an online streaming radio called Usina do Som in the
+early 2000 with more than 1.7 million registered users. It later becomes Sonora as part of [Terra](http://terra.com.br)
+entertainment portal.
+
+### Senior ASP.Net developer by BRQ Digital Solutions at Banco Itaú S. A.
+
+Located at [Banco Itaú S. A.](https://www.itau.com.br/) I acted a short time as specifying analyst and most of time as
+ASP.Net fullstack developer on the bank's institutional websites like [Instituto Itaú Cultural](http://www.itaucultural.org.br/)
+and [Fundação Itaú Social](https://itausocial.org.br/).
+
+In 2017 [Banco Itaú S. A.](https://www.itau.com.br/) was rated #13 in Forbes "World's 25 Biggest Banks".
+
+### Full ASP.Net developer at Fórum Access
+
+At Fórum Access I was part of the team assigned to develop the first trading system for Milenia, an pesticides
+supplier that trades its merchandise with several commodities with live update of its values on the main commodities
+stock markets.
+
+Milenia was rebranded as [Adama Brasil](https://www.adama.com/brasil) and was founded in [Londrina](https://www.google.com/maps/place/Londrina,+State+of+Paraná)
+in 1970 as Herbitécnica. [Adama Brasil](https://www.adama.com/brasil) was three times elected as one of the 150 better
+places to work in Brazil.
+
+### Senior ASP developer by BSI Tecnologia at Banco Itaú S. A.
 
 ## Education
 

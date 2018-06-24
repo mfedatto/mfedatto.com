@@ -53,6 +53,15 @@
             }
         }
     }
+    .contact-picture {
+        height: $contact-image-size;
+        width: $contact-image-size;
+        border-radius: 50%;
+    }
+    .social-badge {
+        height: $badge-image-size;
+        width: $badge-image-size;
+    }
     img {
         text-align: center;
         width: 100%;
