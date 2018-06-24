@@ -1,1 +1,19 @@
-theme: jekyll-theme-dinky
+author: Maurício Fedatto
+title: Maurício Fedatto
+url: "https://mfedatto.com"
+baseurl: ""
+
+markdown: kramdown
+
+tracking_id: UA-269975-33
+
+footer: yes
+footer_url: "https://github.com/bk2dcradle"
+footer_text: "Page design by Ankit Sultana"
+
+facebook_id: "mfedatto"
+twitter_username: "mfedatto"
+
+sass:
+  style: compressed
+  sass_dir: _sass

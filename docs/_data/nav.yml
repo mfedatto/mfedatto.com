@@ -1,0 +1,9 @@
+- name: "Contact"
+  link: "contact"
+
+- name: "Resume"
+  link: "resume"
+#  target: "blank"
+
+- name: "Blog"
+  link: "blog"
