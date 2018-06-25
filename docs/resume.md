@@ -41,6 +41,12 @@ architecture, response time and stability superior of the international average.
 involved. Formerly outsourced, as soon the legal issues expired I was invited by the company to join them as an
 employee.
 
+> Patient and understanding, tries to understand the whole context before intervening, serving the user as solidly as possible
+
+> Calm and focused, he is always concerned not to rush into urgent solutions, assessing the risks and urgency of each solution presented
+
+> Agile, proactive, dedicated and organized, always aligned with team efforts, boosting teamwork
+
 [B3 - Brasil, Bolsa, Balcão](http://b3.com.br) is the 5th largest exchange company in the world. It's the resulting
 company after a merge, in 2017, of CETIP and BM&FBOVESPA.
 
@@ -54,6 +60,8 @@ aggressive performance targets and we delivered a kernel 90% faster than the req
 After that, yet at [B3 - Brasil, Bolsa, Balcão](http://b3.com.br), I worked at their website both sustaining and
 developing new features, making all kind of integrations with several systems to attend the regulations and needs of the
 capitals market.
+
+> One of the most competent and professional co-workers I've ever worked with
 
 I also worked at [Netshoes](https://www.netshoes.com.br/) for a couple of months delivering a build and deploy
 automation solution using Microsoft Team Foundation Services.
@@ -73,6 +81,8 @@ deliver Windows powered machines.
 I also delivered some features at Sonora, an online streaming radio similar to Spotify Radio feature, and
 [TV iG](http://tvig.ig.com.br/) with media transcoding.
 
+> Quick learning in media transcoding
+
 LabOne was an outsource company started with the development of an online streaming radio called Usina do Som in the
 early 2000 with more than 1.7 million registered users. It later becomes Sonora as part of [Terra](http://terra.com.br)
 entertainment portal.
@@ -83,6 +93,8 @@ Located at [Banco Itaú S. A.](https://www.itau.com.br/) I acted a short time as
 ASP.Net fullstack developer on the bank's institutional websites like [Instituto Itaú Cultural](http://www.itaucultural.org.br/)
 and [Fundação Itaú Social](https://itausocial.org.br/).
 
+> Best system development specification
+
 In 2017 [Banco Itaú S. A.](https://www.itau.com.br/) was rated #13 in Forbes "World's 25 Biggest Banks".
 
 ### Full ASP.Net developer at Fórum Access
@@ -90,6 +102,8 @@ In 2017 [Banco Itaú S. A.](https://www.itau.com.br/) was rated #13 in Forbes "W
 At Fórum Access I was part of the team assigned to develop the first trading system for Milenia, an pesticides
 supplier that trades its merchandise with several commodities with live update of its values on the main commodities
 stock markets.
+
+> Quick learning in systems architecture
 
 Milenia was rebranded as [Adama Brasil](https://www.adama.com/brasil) and was founded in [Londrina](https://www.google.com/maps/place/Londrina,+State+of+Paraná)
 in 1970 as Herbitécnica. [Adama Brasil](https://www.adama.com/brasil) was three times elected as one of the 150 better
@@ -111,11 +125,17 @@ advanced file IO and regular expressions, skills that boosted my productivity an
 At BSI Tecnologia software factory I also taught JavaScript for ASP, ASP.Net and Java programers, and ASP for ASP.Net
 programmers.
 
+> Reference in JavaScript for years in BSI Technologia, even after he’s left the company
+
+> Reference in regular expressions in BSI Technologia
+
 ### Junior ASP developer at WeBee e-Marketing
 
 It was at WeBee that I felt for the first time that I became a professional programmer. It was, in fact, the very first
 job I had to deal with customers needs and technical aspects. I coded ASP and PHP connecting with Microsoft Access and
 Microsoft SQL Server databases, delivering websites, e-commerces, hot sites and backoffice solutions.
+
+> Focused, objective, curious, intelligent and team player
 
 [WeBee e-Marketing](http://webee.com.br) is a local reference and won many awards in [Londrina](https://www.google.com/maps/place/Londrina,+State+of+Paraná).
 
