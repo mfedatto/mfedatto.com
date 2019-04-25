@@ -47,7 +47,7 @@ var chart = AmCharts.makeChart( "chartdiv", {
     "category": "HTML",
     "segments": [ { "start": "2002", "end": "2009", },
                   { "start": "2011", "end": "2017", },
-                  { "start": "2019", "end": "2019", } ]
+                  { "start": "2018", "end": "2019", } ]
   }, {
     "category": "CSS",
     "segments": [ { "start": "2004", "end": "2017", },
