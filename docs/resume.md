@@ -27,7 +27,7 @@ Period|Entity|Location|Position
 
 ### Senior Enterprise Architect at Grupo Recovery
 
-(...)
+(soon)
 
 [Grupo Recovery](http://gruporecovery.com) is an [Itaú S.A.](http://www.itausa.com.br) company.
 
@@ -161,7 +161,7 @@ web site maintenance.
 CenaFinal.com.br was a entertainment website about movies on theaters with come great info about home video and open
 television programme.
 
-### Technologies chart (outdated)
+### Technologies chart
 
 <img src="/img/tech-chart.svg" alt="technologies chart" />
 
