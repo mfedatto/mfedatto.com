@@ -12,7 +12,9 @@ Looking for positions where I can apply my expertise to boost the company develo
 
 Period|Entity|Location|Position
 ------|------|--------|--------
-2018/~|Ventron|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Senior C# backend developer
+2019/~|Grupo Recovery|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Senior Enterprise Architect
+2018/2018|7COMm Serviços em TI|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Senior C# backend developer
+2018/2018|Ventron|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Senior C# backend developer
 2013/2018|B3 - Brasil, Bolsa, Balcão|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Senior fullstack developer
 2010/2013|7COMm Serviços em TI|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Senior ASP.Net developer
 2009/2010|LabOne Systems|[São Paulo](https://www.google.com/maps/place/São+Paulo,+State+of+São+Paulo)|Senior ASP.Net MVC developer
@@ -22,6 +24,18 @@ Period|Entity|Location|Position
 2005/2007|BSI Tecnologia|[Londrina](https://www.google.com/maps/place/Londrina,+State+of+Paraná)|Full ASP developer
 2003/2005|WeBee e-Marketing|[Londrina](https://www.google.com/maps/place/Londrina,+State+of+Paraná)|Junior ASP developer
 2002/2002|CenaFinal|[Londrina](https://www.google.com/maps/place/Londrina,+State+of+Paraná)|Website content writer
+
+### Senior Enterprise Architect at Grupo Recovery
+
+(...)
+
+[Grupo Recovery](http://gruporecovery.com) is an [Itaú S.A.](http://www.itausa.com.br) company.
+
+### Senior C# backend developer at 7COMm Serviços em TI
+
+I acted as the main developer on the refactoring of Office Banking 7, an office banking solution offered by 7COMm. The old OB7 was based on Visual Basic 6 ActiveX components alongside with classic ASP, a D-1 based system. The new OB7, witch I worked on, was based on ASP.Net Core 2.1 API and Angular-CLI frontend.
+
+[7COMm Serviços em TI](http://7comm.com.br) is delivering IT solutions and services for more than 30 years.
 
 ### Senior C# backend developer by Ventron at XP Investimentos
 
@@ -147,7 +161,7 @@ web site maintenance.
 CenaFinal.com.br was a entertainment website about movies on theaters with come great info about home video and open
 television programme.
 
-### Technologies chart
+### Technologies chart (outdated)
 
 <img src="/img/tech-chart.svg" alt="technologies chart" />
 
