@@ -51,11 +51,11 @@ var chart = AmCharts.makeChart( "chartdiv", {
   }, {
     "category": "CSS",
     "segments": [ { "start": "2004", "end": "2017", },
-                  { "start": "2019", "end": "2019", } ]
+                  { "start": "2018", "end": "2019", } ]
   }, {
     "category": "JavaScript",
     "segments": [ { "start": "2004", "end": "2017", },
-                  { "start": "2019", "end": "2019", } ]
+                  { "start": "2018", "end": "2019", } ]
   }, {
     "category": "VBScript",
     "segments": [ { "start": "2004", "end": "2009", },
@@ -95,10 +95,10 @@ var chart = AmCharts.makeChart( "chartdiv", {
     "segments": [ { "start": "2018", "end": "2019", } ]
   }, {
     "category": "TypeScript",
-    "segments": [ { "start": "2019", "end": "2019", } ]
+    "segments": [ { "start": "2018", "end": "2019", } ]
   }, {
     "category": "Angular-CLI",
-    "segments": [ { "start": "2019", "end": "2019", } ]
+    "segments": [ { "start": "2018", "end": "2019", } ]
   }, {
     "category": "Java",
     "segments": [ { "start": "2009", "end": "2010", },
@@ -146,7 +146,7 @@ var chart = AmCharts.makeChart( "chartdiv", {
     "segments": [ { "start": "2017", "end": "2019", } ]
   }, {
     "category": "CosmosDB",
-    "segments": [ { "start": "2019", "end": "2019", } ]
+    "segments": [ { "start": "2018", "end": "2019", } ]
   } ],
   "valueScrollbar": {
     "autoGridCount": true
