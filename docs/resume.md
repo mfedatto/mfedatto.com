@@ -136,7 +136,7 @@ deliver a new package ready for deploy in production.
 
 ### Full ASP developer at BSI Tecnologia
 
-I've joined BSI Tecnologia as a trainee for a new COBOL team. The training programme had 6 months duration but I digress
+I've joined BSI Tecnologia as a trainee for a new COBOL team. The training program had 6 months duration but I digress
 in the first month, when I accepted joining the brand new non-mainframe platform team. I've joined the new team as a
 full classic ASP developer. I had a deficient but motivational technical environment that lead me to learn JavaScript,
 advanced file IO and regular expressions, skills that boosted my productivity and my career.
@@ -163,8 +163,8 @@ Microsoft SQL Server databases, delivering websites, e-commerces, hot sites and 
 It was a part-time job during the high school. I was a content writer and started as junior ASP developer helping the
 web site maintenance.
 
-CenaFinal.com.br was a entertainment website about movies on theaters with come great info about home video and open
-television programme.
+CenaFinal.com.br was an entertainment website about movies on theaters with come great info about home video and open
+television program.
 
 ### Technologies chart
 
@@ -173,13 +173,13 @@ television programme.
 ## Education
 
 * University of Economic Sciences of Apucarana – FECEA/UNESPAR (State University of Paraná)
-* Business Administration and Foreign Trade
-* 2003 – 2004 (incomplete)
+  * Business Administration and Foreign Trade
+  * 2003 – 2004 (incomplete)
 
 * Pontifical Catholic University of Paraná – PUC-PR
-* Bachelor of Information Systems
-* 2005 – 2007 (incomplete)
+  * Bachelor of Information Systems
+  * 2005 – 2007 (incomplete)
 
 * Anhembi Morumbi University
-* Management Processes
-* 2013 – 2014 (incomplete)
+  * Management Processes
+  * 2013 – 2014 (incomplete)
