@@ -174,12 +174,12 @@ television program.
 
 * University of Economic Sciences of Apucarana – FECEA/UNESPAR (State University of Paraná)
   * Business Administration and Foreign Trade
-  * 2003 – 2004 (incomplete)
+  * 2003 – 2004 (droped)
 
 * Pontifical Catholic University of Paraná – PUC-PR
   * Bachelor of Information Systems
-  * 2005 – 2007 (incomplete)
+  * 2005 – 2007 (droped)
 
 * Anhembi Morumbi University
   * Management Processes
-  * 2013 – 2014 (incomplete)
+  * 2013 – 2014 (droped)
