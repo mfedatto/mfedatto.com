@@ -4,7 +4,8 @@ layout: default
 
 # Resume
 
-Looking for positions where I can apply my expertise to boost the company development in its effort to deliver the best experience and result to its customers and partners.
+Looking for positions where I can apply my expertise to boost the company development in its effort to deliver the best experience
+and result to its customers and partners.
 
 ## Experience
 
@@ -27,13 +28,17 @@ Period|Entity|Location|Position
 
 ### Senior Enterprise Architect at Grupo Recovery
 
-(soon)
+I'm part of the team accountable for making the company more competible on its market, constantly balancing the needs of all
+company areas and our goals, such as better results, higher income, less expenses, incresed user satisfaction, data accuracy,
+business disponibility, security, auditability and complience.
 
-[Grupo Recovery](http://gruporecovery.com) is an [Itaú S.A.](http://www.itausa.com.br) company.
+[Grupo Recovery](http://gruporecovery.com) is an [Itaú S.A.](http://www.itausa.com.br) company and leader in credit recovery.
 
 ### Senior C# backend developer at 7COMm Serviços em TI
 
-I acted as the main developer on the refactoring of Office Banking 7, an office banking solution offered by 7COMm. The old OB7 was based on Visual Basic 6 ActiveX components alongside with classic ASP, a D-1 based system. The new OB7, witch I worked on, was based on ASP.Net Core 2.1 API and Angular-CLI frontend.
+I acted as tech leader and the main developer on the reforging of Office Banking 7, an office banking solution offered by 7COMm.
+The old OB7 was based on Visual Basic 6 ActiveX components alongside with classic ASP, a D-1 based system. The new OB7 was based
+on ASP.Net Core 2.1 REST API backend and Angular-CLI frontend.
 
 [7COMm Serviços em TI](http://7comm.com.br) is delivering IT solutions and services for more than 30 years.
 
@@ -50,10 +55,10 @@ main reference in investment advice.
 
 ### Senior fullstack developer at B3 - Brasil, Bolsa, Balcão
 
-I had actively participated in important fronts in solutions for the whole capital market. Highlighted by its
-architecture, response time and stability superior of the international average. Dealt with regulatory agencies and was responsible for two payroll system migrations of more than 2000 employees without unavailability in the systems
-involved. Formerly outsourced, as soon the legal issues expired I was invited by the company to join them as an
-employee.
+I had actively participated in important fronts in solutions for the whole capital market. Highlighted by its architecture,
+response time and stability superior of the global average. Dealt with regulatory agencies and was accountable for two
+payroll system migrations of more than 2000 employees without unavailability in the systems involved. Formerly outsourced, as
+soon the legal issues expired I was invited by the company to join them as an employee.
 
 > Patient and understanding, tries to understand the whole context before intervening, serving the user as solidly as possible
 
@@ -167,6 +172,14 @@ television programme.
 
 ## Education
 
+* University of Economic Sciences of Apucarana – FECEA/UNESPAR (State University of Paraná)
+* Business Administration and Foreign Trade
+* 2003 – 2004 (incomplete)
+
 * Pontifical Catholic University of Paraná – PUC-PR
 * Bachelor of Information Systems
 * 2005 – 2007 (incomplete)
+
+* Anhembi Morumbi University
+* Management Processes
+* 2013 – 2014 (incomplete)
